@@ -1384,11 +1384,17 @@ body {
   font-style: italic;
 }
 .cid-qLmj03gezk I {
-  color: #232323;
+  color: #000000;
 }
 .cid-qLmj03gezk H3 {
   color: #232323;
 }
 .cid-qLmj03gezk P {
   color: #232323;
+}
+.cid-qLmj03gezk SPAN {
+  color: #ffffff;
+}
+.cid-qLmj03gezk B {
+  color: #beb4b4;
 }

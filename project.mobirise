@@ -27,14 +27,17 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#000000",
+        "#beb4b4"
+      ]
     },
     "versionFirst": "4.6.5",
     "uniqCompNum": 1,
     "versionPublish": "4.6.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/icon-1863702849-16x16.png",
+    "favicon": "@PROJECT_PATH@/assets/images/342234234234-16x16.png",
     "noImageResize": ""
   },
   "pages": {
@@ -70,13 +73,19 @@
               "font-style": "italic"
             },
             "I": {
-              "color": "#232323"
+              "color": "#000000"
             },
             "H3": {
               "color": "#232323"
             },
             "P": {
               "color": "#232323"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#beb4b4"
             }
           },
           "_name": "header9",
