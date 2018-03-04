@@ -1372,9 +1372,6 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qLmj03gezk {
-  background-color: #232323;
-}
 .cid-qLmj03gezk h1 {
   color: #616161;
 }
@@ -1385,4 +1382,13 @@ body {
 }
 .cid-qLmj03gezk .mbr-section-subtitle {
   font-style: italic;
+}
+.cid-qLmj03gezk I {
+  color: #232323;
+}
+.cid-qLmj03gezk H3 {
+  color: #232323;
+}
+.cid-qLmj03gezk P {
+  color: #232323;
 }
