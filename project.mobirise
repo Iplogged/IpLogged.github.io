@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-02_2123",
-    "currentPage": "index.html",
+    "currentPage": "iplogged.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,10 +36,10 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "index.html": {
+    "iplogged.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "IpLogged",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
